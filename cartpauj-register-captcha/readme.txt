@@ -1,9 +1,11 @@
 === Cartpauj Register Captcha ===
 Contributors: cartpauj
-Tags: captcha, register, registration, register captcha, user captcha, registration captcha, captcha form, recaptcha, turnstile
+Tags: captcha, login security, recaptcha, turnstile, protection
 Requires at least: 6.0
-Tested up to: 6.4
+Tested up to: 6.8
 Stable tag: 2.0.1
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
 Cartpauj Register Captcha does one simple task. It prevents SPAM signups through WordPress' default registration form.
 
